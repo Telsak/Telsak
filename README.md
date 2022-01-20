@@ -2,7 +2,7 @@
 ### 👋 Hi, I’m Simon - aka @Telsak👋
 
 ## I'm a Programmer, Cisco Instructor and Teacher!
-- 👀 I’mcurrently working towards my masters' degree
+- 👀 I’m currently working towards my masters' degree
 - 🌱 I’m currently learnin Python
 - 💞️ I’m looking to collaboratwith other excited codemonkeys
 - 🥅 2022 Goals: Actually finish what I start!
@@ -26,6 +26,8 @@
 
 <br />
 <br />
+
+---
 
 [linkedin]: https://www.linkedin.com/in/simonolofsson
 [twitter]: https://twitter.com/telsak
