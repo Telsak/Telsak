@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’m Simon - aka @Telsak👋
+### Hi, I’m Simon - aka @Telsak 👋
 
 ## I'm a Programmer, Cisco Instructor and Teacher!
 - 👀 I’m currently working towards my masters' degree
