@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’mSimon - aka @Telsak👋
+### 👋 Hi, I’m Simon - aka @Telsak👋
 
 ## I'm a Programmer, Cisco Instructor and Teacher!
 - 👀 I’mcurrently working towards my masters' degree
@@ -16,14 +16,25 @@
 
 <br />
 
+### Languages and Tools:
+
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]  
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][terminal]
+
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/simonolofsson
 [twitter]: https://twitter.com/telsak
 [website]: https://www.telsak.se
-
-### Languages and Tools:
-
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />]
-
+[bash]: https://devhints.io/bash
+[docker]: https://devhints.io/docker-compose
+[linux]: https://highon.coffee/blog/reverse-shell-cheat-sheet
+[python]: https://pythontutor.com/visualize.html#mode=edit
+[terminal]: https://www.reddit.com/r/commandline/top
 
 <!---
 Telsak/Telsak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
