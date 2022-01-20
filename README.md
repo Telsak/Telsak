@@ -4,8 +4,8 @@
 ## I'm a Programmer, Cisco Instructor and Teacher!
 - 👀 I’mcurrently working towards my masters' degree
 - 🌱 I’m currently learnin Python
--  💞️ I’m looking to collaboratwith other excited codemonkeys
-- 🥅2022 Goals: Actually finish what I start!
+- 💞️ I’m looking to collaboratwith other excited codemonkeys
+- 🥅 2022 Goals: Actually finish what I start!
 - ⚡Fun fact: I love pencil drawings and excessive linux one-liners
 
 ### Connect with me:
