@@ -29,6 +29,8 @@
 
 ---
 
+<img align="left" alt="Telsak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Telsak&show_icons=true&hide_border=true" />
+
 [linkedin]: https://www.linkedin.com/in/simonolofsson
 [twitter]: https://twitter.com/telsak
 [website]: https://www.telsak.se
