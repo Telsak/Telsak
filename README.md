@@ -5,7 +5,7 @@
 - 👀 I’m currently working towards my masters' degree
 - 🌱 I’m currently focusing on Python
 - 💞️ I’m looking to collaborate with other excited codemonkeys
-- 🥅 2022 Goals: Actually finish what I start!
+- 🥅 2023 Goals: Actually finish what I start!
 - ⚡ Fun fact: I love pencil drawings and excessive linux one-liners:
 
 ### Connect with me:
