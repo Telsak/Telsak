@@ -5,7 +5,7 @@
 - 👀 I’m currently working towards my masters' degree
 - 🌱 I’m currently focusing on Python
 - 💞️ I’m looking to collaborate with other excited codemonkeys
-- 🥅 2023 Goals: Actually finish what I start!
+- 🥅 2024 Goals: Properly using flask blueprints!
 - ⚡ Fun fact: I love pencil drawings and excessive linux one-liners:
 
 ### Connect with me:
@@ -31,7 +31,6 @@
 <img align="left" alt="Telsak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Telsak&show_icons=true&theme=gruvbox" />
 
 [linkedin]: https://www.linkedin.com/in/simonolofsson
-[twitter]: https://twitter.com/telsak
 [website]: https://www.telsak.se
 [bash]: https://devhints.io/bash
 [docker]: https://devhints.io/docker-compose
